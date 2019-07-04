@@ -3,6 +3,8 @@
 Inspired from fjavieralba/KafkaLocal.java
 https://gist.github.com/fjavieralba/7930018
 
+This standalone program runs a single zookeeper and kafka instances.
+
 
 ## Build and Run
 
